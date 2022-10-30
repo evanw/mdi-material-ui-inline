@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "@emotion/react": "11.10.5",
+    "@emotion/styled": "11.10.5",
+    "@rollup/plugin-commonjs": "23.0.2",
+    "@rollup/plugin-node-resolve": "15.0.1",
+    "esbuild": "0.15.12",
+    "mdi-material-ui": "7.6.0",
+    "parcel": "2.7.0",
+    "rollup": "3.2.3",
+    "webpack": "5.74.0",
+    "webpack-cli": "4.10.0"
+  }
+}

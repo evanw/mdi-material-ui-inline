@@ -1,0 +1,4 @@
+.parcel-cache/
+dist/
+mdi-material-ui-inline/
+node_modules/
